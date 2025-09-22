@@ -1,36 +1,45 @@
 # 🚗 Fleet Management System (Fleet-M_S)
 
-![PHP](https://img.shields.io/badge/PHP-8.1-blue?style=for-the-badge&logo=php&logoColor=white)  
-![Laravel](https://img.shields.io/badge/Laravel-10.x-red?style=for-the-badge&logo=laravel&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-8.0-blue?style=for-the-badge&logo=mysql&logoColor=white)  
-![License-MIT](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+![PHP](https://img.shields.io/badge/PHP-8.2-blue?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-12x-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-8.0-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
 ---
 
 ## 🧾 Overview
 
-Fleet-M_S is a web-based Fleet Management System designed to streamline daily operations of vehicle fleets. Companies that rely on transportation or delivery services can use it to manage vehicles, drivers, operations, and maintenance schedules efficiently.
+**Fleet-M_S** is a comprehensive Fleet Management System built with **Laravel** that centralizes vehicle, driver, and operational data into one secure platform.  
+It enables companies to reduce downtime, optimize costs, and maintain compliance — all in real time.  
 
 ---
 
-## 🌟 Features
+## 🌟 Key Features
 
-- Vehicle management: Add, update, delete vehicles, view status.  
-- Driver management: Assign drivers, track driver profiles and logs.  
-- Maintenance scheduling: Reminders for servicing, record keeping.  
-- Reports & Analytics: Performance reports (fuel usage, distance traveled, downtime).  
-- Role-based Access Control: Different permissions for managers vs regular users.  
+1. **Vehicle & Driver Management**  
+   - Centralized records for vehicles, drivers, assignments, documents, and compliance.  
+   - Role-based access for managers and operators.  
+
+2. **Predictive & Preventive Maintenance**  
+   - Smart alerts and scheduled maintenance plans.  
+   - Spare parts inventory management.  
+   - Reduce unexpected breakdowns with predictive insights.  
+
+3. **Real-Time Financial Tracking**  
+   - Monitor fuel usage, expenses, and revenue in real time.  
+   - Export accurate financial and operational reports.  
+   - Gain full visibility into fleet operating costs.  
 
 ---
 
 ## 🛠️ Tech Stack
 
 | Component | Technology |
-|---|---|
-| Language / Framework | PHP 8.2+, Laravel 12.x |
-| Frontend | Blade Templates, JavaScript |
-| Database | MySQL 8.0 |
-| Tools | Git, Composer, PHPUnit (for tests), etc. |
+|-----------|------------|
+| Framework | Laravel 12.x (PHP 8.2+) |
+| Database  | MySQL 8.0 |
+| Frontend  | Blade Templates + TailwindCSS + JavaScript |
+| Tools     | Git, Composer, Postman, PHPUnit |
 
 ---
 
@@ -39,3 +48,4 @@ Fleet-M_S is a web-based Fleet Management System designed to streamline daily op
 1. Clone the repo:  
    ```bash
    git clone https://github.com/anssary77/Fleet-M_S.git
+   cd Fleet-M_S
