@@ -46,6 +46,16 @@ It provides role-based dashboards for drivers, staff, accountants, managers, and
 
 ---
 
+<img width="971" height="911" alt="Welcom 2025-09-22 at 12 54 26 PM" src="https://github.com/user-attachments/assets/03f8dea5-175e-4760-89a8-838a7a7239fa" />
+
+<img width="1301" height="1016" alt="Admin Dashboard" src="https://github.com/user-attachments/assets/9d808a26-0bc6-45f1-a0e7-c58835f3f461" />
+
+<img width="1335" height="1017" alt="Maneger Dashboard" src="https://github.com/user-attachments/assets/caa9ea97-7b6f-4549-b2e0-7156b703e97e" />
+
+<img width="1271" height="1021" alt="Accounting Dashboard" src="https://github.com/user-attachments/assets/84c39ae6-b7f7-4948-a108-8b75f3a2f2b1" />
+
+<img width="1307" height="961" alt="Driver Dashboard" src="https://github.com/user-attachments/assets/bbe3cded-eeca-4058-856f-73b551bb0270" />
+
 ## 🛠️ Tech Stack
 
 | Component | Technology |
